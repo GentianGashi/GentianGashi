@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning C#, Python & Data Science
 - 💬 Ask me about anything related to programming!
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love piano
+- ⚡ Fun fact: I play piano.. (badly)
 
 ---
-
+### Most Used Languages Currently:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
