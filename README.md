@@ -10,6 +10,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love piano
 
+---
+
 </details>
 
 <details>
