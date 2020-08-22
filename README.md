@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Gentian 👋 - [Personal Website](http://gentiangashi.me/)
 
 <!--
 **GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="GentianGashi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GentianGashi&show_icons=true&hide_border=true" />
+
+</details>
