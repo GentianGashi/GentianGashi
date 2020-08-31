@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I play piano.. (badly)
 
 ---
-### Most Used Languages Currently:
-![Gentian's github stats](https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi)](https://github.com/anuraghazra/github-readme-stats)
+### Statistics:
+![Gentian's github stats](https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 </details>
 
