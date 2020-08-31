@@ -1,7 +1,8 @@
 ### Hi there, I'm [Gentian](http://gentiangashi.me/) 👋
 <a href="https://www.linkedin.com/in/gentian-gashi/">
   <img align="left" alt="Gentian's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
+
 <!--**GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---
 ### I'm a Computer Science Student, Developer, and Teacher!
