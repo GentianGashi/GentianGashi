@@ -1,8 +1,7 @@
-### Hi there, I'm Gentian 👋 - [Sponsor Me](https://github.com/sponsors/GentianGashi)
+### Hi there, I'm [Gentian](http://gentiangashi.me/) 👋
 <a href="https://www.linkedin.com/in/gentian-gashi/">
   <img align="left" alt="Gentian's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   
-</a> [![Website](https://img.shields.io/website?label=GENTIANGASHI.ME&style=for-the-badge&url=http%3A%2F%2Fgentiangashi.me%2F)](http://gentiangashi.me/)
 <!--**GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---
 ### I'm a Computer Science Student, Developer, and Teacher!
@@ -10,6 +9,7 @@
 - 🌱 I’m currently learning C#, Python & Data Science
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/GentianGashi/GentianGashi/issues)
+- ❤️ If you like what I'm doing and want to support me, [Sponsor Me!](https://github.com/sponsors/GentianGashi)
 - 📝[Resume](https://drive.google.com/file/d/1A76ljQU96k7llZZhW-A9G8uTLNCnrnV_/view)
 
 ---
