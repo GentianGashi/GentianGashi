@@ -1,6 +1,7 @@
 ### Hi there, I'm Gentian 👋 - [Sponsor Me](https://github.com/sponsors/GentianGashi)
 <a href="https://www.linkedin.com/in/gentian-gashi/">
   <img align="left" alt="Gentian's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  
 </a> [![Website](https://img.shields.io/website?label=GENTIANGASHI.ME&style=for-the-badge&url=http%3A%2F%2Fgentiangashi.me%2F)](http://gentiangashi.me/)
 <!--**GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---
