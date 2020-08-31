@@ -14,3 +14,5 @@
 ### Statistics:
 <a href="https://github.com/GentianGashi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&include_all_commits=true&theme=default" />
+</a>
+
