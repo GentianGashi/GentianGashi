@@ -17,16 +17,11 @@
 
 ---
 ### Statistics:
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact&theme=default" />
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&theme=default" alt="GentianGashi" />
 
 </details>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&include_all_commits=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact&theme=default" />
-</a>
