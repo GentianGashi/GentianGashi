@@ -13,21 +13,9 @@
 ---
 ### Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&include_all_commits=true&theme=radical" alt="GentianGashi's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GentianGashi's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact&theme=tokyonight" />
 </a>
-
-![Gentian's github stats](https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact)
----
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="GentianGashi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GentianGashi&show_icons=true&hide_border=true" />
-
-</details>
