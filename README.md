@@ -2,7 +2,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/gentian-gashi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://open.spotify.com/user/gentian101" target="_blank"><img alt="Github" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a> 
+<a href="https://discord.com/channels/@me/187706072822317056" target="_blank"><img alt="Github" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a> 
 </p>
 
 <!--**GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
