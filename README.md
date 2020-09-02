@@ -17,6 +17,7 @@
 
 ---
 ### Statistics:
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact&theme=default" />
 <details>
 <summary>📈 My GitHub Stats</summary>
 
