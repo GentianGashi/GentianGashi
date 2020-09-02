@@ -18,10 +18,10 @@
 ---
 ### Statistics:
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>⚡ My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&theme=default" alt="GentianGashi" />
 </details>
   <details>
-<summary>📈 My Top Languages</summary>
+<summary>⚡ My Top Languages</summary>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentianGashi&layout=compact&theme=default" />
 </details>
