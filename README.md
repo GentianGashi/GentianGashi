@@ -2,6 +2,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/gentian-gashi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:genti_gashi8@hotmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://discord.com/channels/@me/187706072822317056" target="_blank"><img alt="Github" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a> 
 </p>
 
