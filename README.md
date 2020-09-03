@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Gentian 👋</h1>
 <h3 align="center">Full Stack .Net Developer</h3>
 
 <p align="center">
