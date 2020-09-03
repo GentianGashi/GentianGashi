@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm Gentian 👋</h1>
+<h3 align="center">Full Stack .Net Developer</h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/gentian-gashi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:genti_gashi8@hotmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://gentiangashi.me/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a> 
 </p>
 
 <!--**GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
