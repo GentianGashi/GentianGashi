@@ -11,7 +11,7 @@
 ---
 ### I'm a Computer Science Student, Developer, and Teacher!
 
-- 🌱 I’m currently learning C#, Python & Data Science
+- 🌱 I’m currently learning C#, Python, Java & More
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/GentianGashi/GentianGashi/issues)
 - ❤️ If you like what I'm doing and want to support me, [Sponsor Me!](https://github.com/sponsors/GentianGashi)
