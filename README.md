@@ -7,7 +7,6 @@
 <a href="https://gentiangashi.me/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a> 
 </p>
 
-<!--**GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---
 ### I'm a Computer Science Student and Full Stack Developer!
 
@@ -20,14 +19,14 @@
 ---
 ### Statistics:
 <details>
-<summary>⚡ My GitHub Statistics</summary>
+<summary>✨ My GitHub Statistics</summary>
   
   *NOTE: Statistics displayed here does not indicate my work ethic, it's a github metric of projects I've decided to upload on github, feature can be found here [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&theme=default" alt="GentianGashi" />
 </details>
   <details>
-<summary>⚡ My Top Languages</summary>
+<summary>✨ My Top Languages</summary>
   
 *NOTE: Top languages displayed here does not indicate my skill level, it's a github metric of languages I've decided to upload on github, feature can be found here [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
   
