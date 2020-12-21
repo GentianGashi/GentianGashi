@@ -9,7 +9,7 @@
 
 <!--**GentianGashi/GentianGashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---
-### I'm a Computer Science Student, Developer, and Teacher!
+### I'm a Computer Science Student and Full Stack Developer!
 
 - 🌱 I’m currently learning C#, Python, Java & More
 - 🥅 2021 Goals: Contribute more to Open Source projects
