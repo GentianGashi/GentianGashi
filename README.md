@@ -20,7 +20,7 @@
 ---
 ### Statistics:
 <details>
-<summary>⚡ My GitHub Stats</summary>
+<summary>⚡ My GitHub Statistics</summary>
   
   *NOTE: Statistics displayed here does not indicate my work ethic, it's a github metric of projects I've decided to upload on github, feature can be found here [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
   
