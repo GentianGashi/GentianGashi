@@ -10,7 +10,7 @@
 ---
 ### I'm a Computer Science Student and Full Stack Developer!
 
-- 🌱 I’m currently learning C#, Python, Java & More
+- 🌱 I’m currently learning C#, Java, Python & More
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/GentianGashi/GentianGashi/issues)
 - ❤️ If you would like to support what I'm doing, [Sponsor Me!](https://github.com/sponsors/GentianGashi)
