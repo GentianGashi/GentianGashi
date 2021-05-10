@@ -21,14 +21,14 @@
 <details>
 <summary>✨ My GitHub Statistics</summary>
   
-  *NOTE: Statistics displayed here do not indicate my work ethic, it's a github metric of projects I've decided to upload on github. Feature can be found here [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+  *NOTE: Statistics displayed here do not indicate my work ethic, it's a github metric of projects I've decided to upload on github. Feature can be found here [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GentianGashi&show_icons=true&theme=default" alt="GentianGashi" />
 </details>
   <details>
 <summary>✨ My Top Languages</summary>
   
-*NOTE: Top languages displayed here do not indicate my skill level, it's a github metric of languages I've decided to upload on github. Feature can be found here [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages displayed here do not indicate my skill level, it's a github metric of languages I've decided to upload on github. Feature can be found here [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
   
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentiangashi&layout=compact&hide=html" />
 </details>
