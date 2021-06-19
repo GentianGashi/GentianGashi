@@ -14,7 +14,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/GentianGashi/GentianGashi/issues)
 - ❤️ If you would like to support what I'm doing, [Sponsor Me!](https://github.com/sponsors/GentianGashi)
-- 📝[CV / Résumé](https://drive.google.com/file/d/1A76ljQU96k7llZZhW-A9G8uTLNCnrnV_/view)
+- 📝[CV (resumé)](https://drive.google.com/file/d/1A76ljQU96k7llZZhW-A9G8uTLNCnrnV_/view)
 
 ---
 ### Statistics:
